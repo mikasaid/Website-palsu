@@ -1,4 +1,26 @@
-[server-irs.txt](https://github.com/muhammaddzaky/Website-palsu/files/6699686/server-irs.txt)
-# IRS-scraping
-How to scrape something from IRS web portal.
-You can contribute here to fix issues or add a new script for scraping data from IRS web portal.
+[Malody
+Ruby Malody common library. Library designed for handling common things for Malody game.
+
+Installation
+Add this line to your application's Gemfile:
+
+gem 'malody'
+And then execute:
+
+$ bundle install
+Or install it yourself as:
+
+$ gem install malody
+Usage
+TODO: Write usage instructions here
+
+Development
+After checking out the repo, run bin/setup to install dependencies. Then, run rake test to run the tests. You can also run bin/console for an interactive prompt that will allow you to experiment.
+
+To install this gem onto your local machine, run bundle exec rake install. To release a new version, update the version number in version.rb, and then run bundle exec rake release, which will create a git tag for the version, push git commits and tags, and push the .gem file to rubygems.org.
+
+Contributing
+Bug reports and pull requests are welcome on GitHub at https://github.com/ReiFan49/ruby-malody.
+
+License
+The gem is available as open source under the terms of the MIT License.
